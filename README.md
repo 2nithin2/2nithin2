@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2nithin2
+- 👋 Hi, I’m Nithin
 - 👀 I’m interested in development
 - 🌱 I’m currently learning MERN stack specialization
 - 💞️ I’m looking to collaborate on github
