@@ -21,7 +21,8 @@ Welcome to my GitHub profile! I’m a passionate developer always eager to learn
 - Worked on GIS applications and web development using Python.
 
 ## 💡 Projects
-- **[Generative AI Powered Maintenance Support Assistant](https://github.com/2nithin2/Generative-AI-Powered-Maintenance-Support-Assistant)**: AI-powered assistant to streamline maintenance operations, providing intelligent troubleshooting, predictive maintenance, and real-time assistance.
+-
+-**[Resume Screening with Python]([https://github.com/2nithin2/Generative-AI-Powered-Maintenance-Support-Assistant](https://github.com/2nithin2/Smart-Resume-Screener))**: This project implements a **Resume Screening system** using Python and Natural Language Processing (NLP) techniques to analyze, categorize, and visualize resume data.- **[Generative AI Powered Maintenance Support Assistant](https://github.com/2nithin2/Generative-AI-Powered-Maintenance-Support-Assistant)**: AI-powered assistant to streamline maintenance operations, providing intelligent troubleshooting, predictive maintenance, and real-time assistance.
 - **[Responsive Portfolio Website](https://github.com/2nithin2/personal-portfolio-site-)**: A sleek, responsive portfolio website featuring animations, a skills section, a contact form, and a project showcase, built using HTML, CSS, JavaScript, and optionally Tailwind CSS, designed in Figma.
 - **[Virtual News Reporter](https://github.com/2nithin2/web-scrapping-virtual-reporter)**: A Python script that scrapes news headlines and converts them into audio.
 - **[E-Commerce Website](https://nithinecom.ccbp.tech)**: Developed an e-commerce platform featuring product browsing, details, and offers.
