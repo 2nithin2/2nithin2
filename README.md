@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in vari
 - **Frontend**: HTML, CSS, Bootstrap, JavaScript
 - **Backend**: Python
 - **Databases**: PostgreSQL
-
+## 🚀 Skilling up in Django,react,AI,GUI
 ## 💼 Experience
 **Technical Research Staff** at IIT Delhi
 - Contributed to edge AI applications and systems development.
